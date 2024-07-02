@@ -1,0 +1,59 @@
+## Tạo file index.html hiển thị giao diện như hình dưới
+
+Sử dụng Position fixed
+
+```
+<div class="parent">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Rhoncus urna neque
+      viverra justo. Vitae suscipit tellus mauris a diam maecenas sed enim. Nunc
+      sed blandit libero volutpat sed. Ullamcorper a lacus vestibulum sed arcu
+      non odio. Aliquet nec ullamcorper sit amet risus. Varius sit amet mattis
+      vulputate enim nulla aliquet porttitor. Elit pellentesque habitant morbi
+      tristique. A erat nam at lectus urna duis convallis convallis tellus. Non
+      odio euismod lacinia at quis risus. Mauris commodo quis imperdiet massa.
+      Dignissim cras tincidunt lobortis feugiat. Pellentesque habitant morbi
+      tristique senectus et netus et. Et malesuada fames ac turpis egestas. A
+      lacus vestibulum sed arcu non. Pellentesque dignissim enim sit amet
+      venenatis urna cursus. Diam quis enim lobortis scelerisque fermentum dui
+      faucibus in ornare. At ultrices mi tempus imperdiet nulla. Dolor sit amet
+      consectetur adipiscing elit duis tristique. Nulla facilisi morbi tempus
+      iaculis. Ut porttitor leo a diam sollicitudin. Ullamcorper eget nulla
+      facilisi etiam dignissim diam quis enim. Adipiscing enim eu turpis egestas
+      pretium. In eu mi bibendum neque egestas congue. Leo duis ut diam quam
+      nulla porttitor massa. Morbi leo urna molestie at elementum eu facilisis.
+      Odio aenean sed adipiscing diam donec adipiscing tristique. Neque sodales
+      ut etiam sit amet nisl purus in. Viverra adipiscing at in tellus integer.
+      Sed risus pretium quam vulputate dignissim suspendisse in. Orci phasellus
+      egestas tellus rutrum tellus pellentesque. Donec ultrices tincidunt arcu
+      non. Phasellus faucibus scelerisque eleifend donec pretium vulputate
+      sapien nec. Orci eu lobortis elementum nibh tellus molestie nunc. Sit amet
+      risus nullam eget felis eget nunc. Odio euismod lacinia at quis. Arcu odio
+      ut sem nulla pharetra. Proin fermentum leo vel orci porta non pulvinar
+      neque laoreet. Mus mauris vitae ultricies leo integer malesuada nunc vel.
+      Cursus mattis molestie a iaculis at erat. Turpis egestas pretium aenean
+      pharetra magna ac. Mi in nulla posuere sollicitudin. Quam adipiscing vitae
+      proin sagittis nisl rhoncus mattis rhoncus. Odio tempor orci dapibus
+      ultrices in iaculis nunc sed. Donec massa sapien faucibus et molestie ac
+      feugiat sed lectus. Diam maecenas ultricies mi eget mauris pharetra et
+      ultrices neque. Id donec ultrices tincidunt arcu non sodales neque sodales
+      ut. Velit aliquet sagittis id consectetur purus ut faucibus. Eget duis at
+      tellus at urna condimentum mattis pellentesque id. Purus in massa tempor
+      nec. Scelerisque eleifend donec pretium vulputate sapien nec sagittis
+      aliquam malesuada. Magna sit amet purus gravida. Duis at tellus at urna
+      condimentum. Lobortis elementum nibh tellus molestie nunc non. Ac turpis
+      egestas sed tempus urna et. Nunc pulvinar sapien et ligula ullamcorper
+      malesuada. Nisl vel pretium lectus quam id leo in vitae. Dolor purus non
+      enim praesent. At risus viverra adipiscing at in. Egestas fringilla
+      phasellus faucibus scelerisque. Maecenas accumsan lacus vel facilisis
+      volutpat est velit egestas dui. Mauris pellentesque pulvinar pellentesque
+      habitant morbi tristique senectus et. Quisque non tellus orci ac. Faucibus
+      scelerisque eleifend donec pretium vulputate. Ultricies mi eget mauris
+      pharetra et ultrices. Etiam sit amet nisl purus in mollis nunc sed. Mauris
+      a diam maecenas sed enim ut. Ipsum dolor sit amet consectetur adipiscing
+      elit. Et netus et malesuada fames.
+      <div class="element">Child element</div>
+    </div>
+```
+
+![Image](Positioning.png)

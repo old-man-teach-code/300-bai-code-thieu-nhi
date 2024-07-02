@@ -1,0 +1,1 @@
+## Viết chương trình nhập vào 1 số nguyên, kiểm tra người dùng có nhập số thỏa mãn điều kiện lớn hơn 0 và nhỏ hơn 10 không

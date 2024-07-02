@@ -1,0 +1,1 @@
+## Nhập vào 1 số n, tạo 1 menu tính tổng các số chẵn hoặc lẻ từ 1 đến n

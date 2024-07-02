@@ -1,0 +1,1 @@
+### In ra các số chẵn trong khoảng từ 1 đến 10

@@ -1,0 +1,1 @@
+## Nhập n  in Tam giác hình kim tự tháp ngược

@@ -1,0 +1,1 @@
+# Khai báo 3 biến duy nhất, yêu cầu người dùng nhập vào 1 dãy 3 số tăng dần sau đó nhập vào lần 2, 1 dãy 3 số khác giảm dần

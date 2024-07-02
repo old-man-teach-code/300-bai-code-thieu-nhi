@@ -1,0 +1,1 @@
+###  phân loại sinh viên dựa vào kết quả điểm học tập. Nếu điểm A thì phân loại là sinh viên xuất xắc, điểm B là sinh viên loại giỏi, điểm C là sinh viên loại khá, điểm D là sinh viên loại trung bình, điểm F là sinh viên loại yếu.

@@ -1,0 +1,73 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Demo Layout</title>
+    <link type="text/css" rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <div class="wrap">
+
+        <div class="header">
+        </div><!-- .header -->
+
+        <div class="content">
+        </div><!-- .content -->
+
+        <div class="sidebar">
+        </div><!-- .sidebar -->
+
+        <div class="clear"></div>
+
+        <div class="footer">
+        </div><!-- .footer -->
+
+    </div><!-- .wrap -->
+
+</body>
+
+</html>
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+    }
+
+    .wrap {
+        width: 980px; /*100%; */
+        margin: 0 auto;
+    }
+
+    .header {
+        height: 140px;
+        margin-bottom: 15px;
+        background-color: #0d7963;
+    }
+
+    .content {
+        width: 690px; /* calc(100% - 280px); */
+        height: 450px;
+        background-color: #0d7963;
+        float: right;
+    }
+
+    .sidebar {
+        width: 275px;
+        height: 450px;
+        background-color: #0d7963;
+        float: left;
+    }
+
+    .footer {
+        height: 70px;
+        margin-top: 15px;
+        background-color: #0d7963;
+    }
+
+    .clear {
+        clear: both;
+    }
+</style>

@@ -1,0 +1,1 @@
+# Viết chương trình C++ để nhập hai số nguyên từ bàn phím và sau đó in ra màn hình tổng và trung bình của hai số bạn vừa nhập.
